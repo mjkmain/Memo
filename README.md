@@ -1,8 +1,8 @@
 # Server Command
 
-## scp
+* scp
 
-### file
+** file
 '
 scp -P [port number] [local path] [username]@[server ip]:[server path]
 '
